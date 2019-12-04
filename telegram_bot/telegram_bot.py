@@ -16,7 +16,7 @@ import time
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-TELEGRAM_TOKEN = '796880909:AAFdNbpVcg9VkwnZBFq5tsTbdLc7XWT53Ng'
+TELEGRAM_TOKEN = 'my token'
 
 run_thread = False
 send_frame = False
